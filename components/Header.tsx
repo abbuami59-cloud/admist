@@ -7,7 +7,7 @@ import { usePathname } from "next/navigation";
 import { ThemeToggle } from "./ThemeToggle";
 import InstallAppButton from "./InstallAppButton";
 
-export function Header({ onMenuClick }: { onMenuClick: () => void }) {
+export function Header({ onMenuClick, isDesktopSidebarOpen = true }: { onMenuClick: () => void, isDesktopSidebarOpen?: boolean }) {
   const [sloganText, setSloganText] = useState("");
   const pathname = usePathname();
 
@@ -26,8 +26,8 @@ export function Header({ onMenuClick }: { onMenuClick: () => void }) {
 
   return (
     <header className="sticky top-0 z-30 bg-white/85 dark:bg-[#18181b]/85 backdrop-blur-md border-b border-zinc-200 dark:border-white/10 px-2.5 sm:px-4 md:px-8 flex items-center justify-between gap-2 md:gap-4 h-20">
-      {/* Mobile Left: Animated 3-Line Menu Button */}
-      <div className="md:hidden flex items-center shrink-0">
+      {/* Left: Animated 3-Line Menu Button */}
+      <div className="flex items-center shrink-0">
         <div className="relative flex items-center">
           {/* Glowing Color Emission Aura */}
           <div className="absolute -inset-1 rounded-2xl bg-gradient-to-r from-emerald-500 via-teal-400 via-cyan-400 to-indigo-500 opacity-75 blur-md animate-color-emission pointer-events-none" />
@@ -48,10 +48,10 @@ export function Header({ onMenuClick }: { onMenuClick: () => void }) {
       </div>
 
       {/* Center on Mobile / Left on Desktop: Title & Typing Slogan */}
-      <div className="flex-1 flex flex-col items-center md:items-start justify-center min-w-0 text-center md:text-left px-1">
-        <div className="md:hidden flex flex-col items-center justify-center group mb-0.5">
-          <Link href="/" className="flex items-center justify-center group">
-            <span className="text-xl sm:text-2xl font-black bg-gradient-to-r from-emerald-600 via-teal-600 to-indigo-600 dark:from-emerald-400 dark:via-teal-300 dark:to-indigo-400 bg-clip-text text-transparent truncate tracking-tight text-center">
+      <div className="flex-1 flex flex-col items-center md:items-start justify-center min-w-0 text-center md:text-left px-1 md:pl-2">
+        <div className={`flex flex-col items-center md:items-start justify-center group mb-0.5 ${isDesktopSidebarOpen ? 'md:hidden' : 'md:flex'}`}>
+          <Link href="/" className="flex items-center justify-center md:justify-start group">
+            <span className="text-xl sm:text-2xl font-black bg-gradient-to-r from-emerald-600 via-teal-600 to-indigo-600 dark:from-emerald-400 dark:via-teal-300 dark:to-indigo-400 bg-clip-text text-transparent truncate tracking-tight text-center md:text-left">
               Admission Hub
             </span>
           </Link>
@@ -60,12 +60,12 @@ export function Header({ onMenuClick }: { onMenuClick: () => void }) {
             href="https://admission.talukdaracademy.com.bd" 
             target="_blank" 
             rel="noopener noreferrer" 
-            className="text-[9px] sm:text-[10px] font-semibold text-emerald-600 hover:text-emerald-700 dark:text-emerald-400 dark:hover:text-emerald-300 tracking-wider hover:underline mt-0.5"
+            className="text-[9px] sm:text-[10px] font-semibold text-emerald-600 hover:text-emerald-700 dark:text-emerald-400 dark:hover:text-emerald-300 tracking-wider hover:underline mt-0.5 text-center md:text-left hidden sm:block"
           >
             admission.talukdaracademy.com.bd
           </a>
         </div>
-        <p className="text-xs sm:text-sm md:text-lg font-medium text-zinc-600 dark:text-zinc-400 flex items-center justify-center md:justify-start truncate max-w-full">
+        <p className={`text-xs sm:text-sm md:text-lg font-medium text-zinc-600 dark:text-zinc-400 flex items-center justify-center md:justify-start truncate max-w-full ${isDesktopSidebarOpen ? 'md:mt-0' : 'md:hidden lg:flex lg:mt-0'}`}>
           <span className="truncate">{sloganText}</span>
           <span className="animate-pulse inline-block w-1.5 h-3.5 md:h-4 bg-primary-500 ml-1 shrink-0"></span>
         </p>

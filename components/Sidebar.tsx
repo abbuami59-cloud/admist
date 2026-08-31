@@ -15,7 +15,17 @@ const tabs = [
   { name: "ভর্তি ব্লগ ও গাইড (Blog)", path: "/blog", icon: BookOpen },
 ];
 
-export function Sidebar({ isOpen, onClose }: { isOpen: boolean; onClose: () => void }) {
+export function Sidebar({ 
+  isOpen, 
+  onClose,
+  isDesktopOpen = true,
+  onDesktopClose
+}: { 
+  isOpen: boolean; 
+  onClose: () => void;
+  isDesktopOpen?: boolean;
+  onDesktopClose?: () => void;
+}) {
   const pathname = usePathname();
 
   return (
@@ -31,8 +41,8 @@ export function Sidebar({ isOpen, onClose }: { isOpen: boolean; onClose: () => v
       {/* Sidebar */}
       <aside
         className={`fixed inset-y-0 left-0 z-50 w-72 bg-white dark:bg-[#09090b] border-r border-zinc-200 dark:border-white/10 transform transition-transform duration-300 ease-in-out flex flex-col shadow-2xl md:shadow-none ${
-          isOpen ? "translate-x-0" : "-translate-x-full md:translate-x-0"
-        }`}
+          isOpen ? "translate-x-0" : "-translate-x-full"
+        } ${isDesktopOpen ? "md:translate-x-0" : "md:-translate-x-full"}`}
       >
         <div className="flex flex-col border-b border-zinc-200 dark:border-white/10 p-6 relative">
           <div className="flex items-center justify-between">
