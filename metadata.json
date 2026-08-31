@@ -1,0 +1,8 @@
+{
+  "name": "Remix Admission Hub Tracker",
+  "description": "A comprehensive university admission tracker with deadlines, admit cards, and result dates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

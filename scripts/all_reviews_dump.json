@@ -1,0 +1,802 @@
+[
+  {
+    "file": "%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%ae%e0%a6%bf%e0%a6%b2%e0%a7%8b%e0%a6%9c%e0%a6%bf-%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a7%87-%e0%a6%95%e0%a7%87%e0%a6%a8-%e0%a6%aa%e0%a7%9c%e0%a6%ac%e0%a7%8b.json",
+    "slug": "%e0%a6%95%e0%a7%8d%e0%a6%b0%e0%a6%bf%e0%a6%ae%e0%a6%bf%e0%a6%b2%e0%a7%8b%e0%a6%9c%e0%a6%bf-%e0%a6%a8%e0%a6%bf%e0%a7%9f%e0%a7%87-%e0%a6%95%e0%a7%87%e0%a6%a8-%e0%a6%aa%e0%a7%9c%e0%a6%ac%e0%a7%8b",
+    "title": "ক্রিমিনোলজি (Criminology) Subject Review: অপরাধবিজ্ঞান ও বিচার ব্যবস্থা"
+  },
+  {
+    "file": "%e0%a6%97%e0%a6%a3%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%ad%e0%a6%be%e0%a6%b2%e0%a7%8b-%e0%a6%af%e0%a7%81%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%bf%e0%a6%ac%e0%a7%8b%e0%a6%a7-%e0%a6%aa%e0%a7%8d%e0%a6%b0.json",
+    "slug": "%e0%a6%97%e0%a6%a3%e0%a6%bf%e0%a6%a4%e0%a7%87-%e0%a6%ad%e0%a6%be%e0%a6%b2%e0%a7%8b-%e0%a6%af%e0%a7%81%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%bf%e0%a6%ac%e0%a7%8b%e0%a6%a7-%e0%a6%aa%e0%a7%8d%e0%a6%b0",
+    "title": "পদার্থবিজ্ঞান পড়ার মানসিক প্রস্তুতি ও বাস্তবিক পর্যালোচনা"
+  },
+  {
+    "file": "acce.json",
+    "slug": "acce",
+    "title": "ফলিত রসায়ন ও রাসায়নিক প্রকৌশল (ACCE) Subject Review | ক্যারিয়ার ও পড়াশোনা"
+  },
+  {
+    "file": "accounting-department-cu.json",
+    "slug": "accounting-department-cu",
+    "title": "হিসাববিজ্ঞান (Accounting) Subject Review | ক্যারিয়ার ও পড়াশোনা"
+  },
+  {
+    "file": "actuarial-science-and-risk-analytics.json",
+    "slug": "actuarial-science-and-risk-analytics",
+    "title": "অ্যাকচুয়ারি সায়েন্স ও প্রিডিক্টিভ রিস্ক মডেলিং (Actuarial Science & Risk Analytics) ক্যারিয়ার"
+  },
+  {
+    "file": "aeronautical-engineering-ae-mist.json",
+    "slug": "aeronautical-engineering-ae-mist",
+    "title": "অ্যারোনটিক্যাল ইঞ্জিনিয়ারিং (Aeronautical Engineering) Subject Review | ক্যারিয়ার ও পড়াশোনা"
+  },
+  {
+    "file": "aerospace-and-astronautical-engineering.json",
+    "slug": "aerospace-and-astronautical-engineering",
+    "title": "অ্যারোস্পেস ও অ্যাস্ট্রোনটিক্যাল ইঞ্জিনিয়ারিং (Aerospace & Astronautical Engineering) পূর্ণাঙ্গ ক্যারিয়ার গাইড"
+  },
+  {
+    "file": "agri-engineering.json",
+    "slug": "agri-engineering",
+    "title": "এগ্রিকালচারাল ইঞ্জিনিয়ারিং (Agri Engineering) Subject Review | ক্যারিয়ার ও পড়াশোনা"
+  },
+  {
+    "file": "agricultural-economics-bau.json",
+    "slug": "agricultural-economics-bau",
+    "title": "বিএসসি ইন এগ্রিকালচারাল ইকোনমিক্স (Agricultural Economics - BAU) বিষয় পরিচিতি ও ক্যারিয়ার"
+  },
+  {
+    "file": "agricultural-engineering-bau.json",
+    "slug": "agricultural-engineering-bau",
+    "title": "বিএসসি ইন এগ্রিকালচারাল ইঞ্জিনিয়ারিং (Agricultural Engineering - BAU) সম্পূর্ণ গাইড"
+  },
+  {
+    "file": "agriculture-department-bau.json",
+    "slug": "agriculture-department-bau",
+    "title": "বিএসসি ইন এগ্রিকালচার (B.Sc. Agriculture - BAU) পূর্ণাঙ্গ বিষয় পরিচিতি ও ক্যারিয়ার"
+  },
+  {
+    "file": "animal-husbandry-bau.json",
+    "slug": "animal-husbandry-bau",
+    "title": "বিএসসি ইন এনিম্যাল হাজবেন্ড্রি (Animal Husbandry - BAU) বিষয় পরিচিতি ও ক্যারিয়ার"
+  },
+  {
+    "file": "animal-science-and-veterinary-medicine.json",
+    "slug": "animal-science-and-veterinary-medicine",
+    "title": "ডক্টর অব ভেটেরিনারি মেডিসিন ও এনিম্যাল সায়েন্স (DVM) Subject Review"
+  },
+  {
+    "file": "applied-environmental-chemistry-aec-cu.json",
+    "slug": "applied-environmental-chemistry-aec-cu",
+    "title": "ফলিত পরিবেশ রসায়ন (Applied Environmental Chemistry - CU) Subject Review"
+  },
+  {
+    "file": "architecture-department-review.json",
+    "slug": "architecture-department-review",
+    "title": "স্থাপত্যবিদ্যা (Architecture) পূর্ণাঙ্গ ক্যারিয়ার ও বিষয় গাইড"
+  },
+  {
+    "file": "astrobiology-and-space-life-sciences.json",
+    "slug": "astrobiology-and-space-life-sciences",
+    "title": "অ্যাস্ট্রোবায়োলজি ও স্পেস লাইফ সায়েন্সেস (Astrobiology & Space Life Sciences) উচ্চশিক্ষা ও ক্যারিয়ার"
+  },
+  {
+    "file": "autonomous-robotics-and-swarm-intelligence.json",
+    "slug": "autonomous-robotics-and-swarm-intelligence",
+    "title": "স্বায়ত্তশাসিত রোবোটিক্স ও সোয়ার্ম ইন্টেলিজেন্স (Autonomous Robotics & Swarm AI) বিষয় পরিচিতি"
+  },
+  {
+    "file": "bachelor-of-business-administration-bba.json",
+    "slug": "bachelor-of-business-administration-bba",
+    "title": "ব্যবসায় প্রশাসন (BBA - SUST) বিষয় ও করপোরেট ক্যারিয়ার গাইড"
+  },
+  {
+    "file": "bachelor-of-dental-and-surgery-bds.json",
+    "slug": "bachelor-of-dental-and-surgery-bds",
+    "title": "ব্যাচেলর অব ডেন্টাল সার্জারি (BDS) পূর্ণাঙ্গ ডেন্টাল ক্যারিয়ার রিভিউ"
+  },
+  {
+    "file": "becm.json",
+    "slug": "becm",
+    "title": "Building Engineering & Construction Management (BECM) Subject Review"
+  },
+  {
+    "file": "biochemistry-and-molecular-biology-bmb.json",
+    "slug": "biochemistry-and-molecular-biology-bmb",
+    "title": "প্রাণরসায়ন ও অণুপ্রাণবিজ্ঞান (BMB - CU) Subject Review"
+  },
+  {
+    "file": "bioinformatics-engineering-bau.json",
+    "slug": "bioinformatics-engineering-bau",
+    "title": "বিএসসি ইন বায়োইনফরমেটিক্স ইঞ্জিনিয়ারিং (Bioinformatics Engineering - BAU) বিষয় পরিচিতি"
+  },
+  {
+    "file": "biomedical-engineering-bme-bue.json",
+    "slug": "biomedical-engineering-bme-bue",
+    "title": "বায়োমেডিকেল ইঞ্জিনিয়ারিং (BME - BUET/KUET/MIST/CUET) Subject Review"
+  },
+  {
+    "file": "biomedical-informatics-and-digital-health.json",
+    "slug": "biomedical-informatics-and-digital-health",
+    "title": "বায়োমেডিকেল ইনফরমেটিক্স ও ডিজিটাল হেলথ সিস্টেমস (Biomedical Informatics) বিষয় পরিচিতি"
+  },
+  {
+    "file": "blog-post_13-2.json",
+    "slug": "blog-post_13-2",
+    "title": "ফার্মাসিউটিক্যালস ইন্ডাস্ট্রিতে ইঞ্জিনিয়ারদের ভূমিকা ও ক্যারিয়ার সম্ভাবনা"
+  },
+  {
+    "file": "blog-post_56.json",
+    "slug": "blog-post_56",
+    "title": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং (CSE) পূর্ণাঙ্গ কোর্স কাঠামো"
+  },
+  {
+    "file": "blog-post_85.json",
+    "slug": "blog-post_85",
+    "title": "পাওয়ার প্ল্যান্ট ও বিদ্যুৎ উৎপাদনে মেকানিক্যাল ইঞ্জিনিয়ারদের ভূমিকা"
+  },
+  {
+    "file": "blog-post_95.json",
+    "slug": "blog-post_95",
+    "title": "পদার্থবিজ্ঞানের ক্যারিয়ার সম্ভাবনা ও আধুনিক বৈশ্বিক সুযোগ"
+  },
+  {
+    "file": "bmb-sust.json",
+    "slug": "bmb-sust",
+    "title": "প্রাণরসায়ন ও অণুপ্রাণবিজ্ঞান (BMB - SUST) Subject Review"
+  },
+  {
+    "file": "botany-du.json",
+    "slug": "botany-du",
+    "title": "উদ্ভিদবিজ্ঞান (Botany - University of Dhaka) Subject Review"
+  },
+  {
+    "file": "butex-b-unit-review-with-video.json",
+    "slug": "butex-b-unit-review-with-video",
+    "title": "বুটেক্স বি-ইউনিট পূর্ণাঙ্গ রিভিউ (Department of Textile Chemical & Fashion)"
+  },
+  {
+    "file": "ca.json",
+    "slug": "ca",
+    "title": "চার্টার্ড একাউন্টেন্সি (Chartered Accountancy - CA) Subject Review"
+  },
+  {
+    "file": "ce-ruet.json",
+    "slug": "ce-ruet",
+    "title": "Civil Engineering (CE - RUET) Subject Review: পুরকৌশল রুয়েট"
+  },
+  {
+    "file": "ce.json",
+    "slug": "ce",
+    "title": "পুরকৌশল বিদ্যা (Civil Engineering): ইতিহাস, আধুনিক মেগাপ্রকল্প ও ভবিষ্যৎ"
+  },
+  {
+    "file": "chemical-engineering.json",
+    "slug": "chemical-engineering",
+    "title": "Chemical Engineering Subject Review: রাসায়নিক প্রকৌশল ও শিল্প প্রসেস"
+  },
+  {
+    "file": "chemistry-department-cu.json",
+    "slug": "chemistry-department-cu",
+    "title": "রসায়ন বিভাগ (Chemistry - University of Chittagong) Subject Review"
+  },
+  {
+    "file": "civil-and-environmental-engineering.json",
+    "slug": "civil-and-environmental-engineering",
+    "title": "সিভিল অ্যান্ড এনভায়রনমেন্টাল ইঞ্জিনিয়ারিং (CEE - SUST) Subject Review"
+  },
+  {
+    "file": "civil-engineering-kuet.json",
+    "slug": "civil-engineering-kuet",
+    "title": "সিভিল ইঞ্জিনিয়ারিং (Civil Engineering - KUET) Subject Review"
+  },
+  {
+    "file": "climate-finance-and-carbon-economics.json",
+    "slug": "climate-finance-and-carbon-economics",
+    "title": "ক্লাইমেট ফাইন্যান্স ও এনভায়রনমেন্টাল ইকোনমেট্রিক্স (Climate Finance & Carbon Economics) রিভিউ"
+  },
+  {
+    "file": "cognitive-science-and-neuro-ai.json",
+    "slug": "cognitive-science-and-neuro-ai",
+    "title": "কগনিটিভ সায়েন্স ও নিউরো-এআই (Cognitive Science & Neuro-AI) বিষয় পরিচিতি ও উচ্চশিক্ষা"
+  },
+  {
+    "file": "computer-science-and-engineering.json",
+    "slug": "computer-science-and-engineering",
+    "title": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং (CSE - CU) Subject Review"
+  },
+  {
+    "file": "cse-ruet.json",
+    "slug": "cse-ruet",
+    "title": "কম্পিউটার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং (CSE - RUET) Subject Review"
+  },
+  {
+    "file": "cu-2.json",
+    "slug": "cu-2",
+    "title": "ফিজিক্যাল এডুকেশন অ্যান্ড স্পোর্টস সায়েন্স (CU) Subject Review"
+  },
+  {
+    "file": "cuet-civi.json",
+    "slug": "cuet-civi",
+    "title": "সিভিল ইঞ্জিনিয়ারিং (Civil Engineering - CUET) Subject Review"
+  },
+  {
+    "file": "cyber-warfare-and-digital-forensics.json",
+    "slug": "cyber-warfare-and-digital-forensics",
+    "title": "সাইবার ডিফেন্স, অফেনসিভ সিকিউরিটি ও ডিজিটাল ফরেনসিক্স (Cyber Warfare & Digital Forensics) রিভিউ"
+  },
+  {
+    "file": "department-of-anthropology-cu.json",
+    "slug": "department-of-anthropology-cu",
+    "title": "নৃবিজ্ঞান বিভাগ (Anthropology - CU) Subject Review"
+  },
+  {
+    "file": "department-of-banking-insurance-cu.json",
+    "slug": "department-of-banking-insurance-cu",
+    "title": "ব্যাংকিং অ্যান্ড ইন্স্যুরেন্স (Banking & Insurance - CU) Subject Review"
+  },
+  {
+    "file": "department-of-bengali-cu.json",
+    "slug": "department-of-bengali-cu",
+    "title": "বাংলা ভাষা ও সাহিত্য (Bengali - CU) Subject Review"
+  },
+  {
+    "file": "department-of-botany-cu.json",
+    "slug": "department-of-botany-cu",
+    "title": "উদ্ভিদবিজ্ঞান বিভাগ (Botany - CU) Subject Review"
+  },
+  {
+    "file": "department-of-english-university-of.json",
+    "slug": "department-of-english-university-of",
+    "title": "ইংরেজি ভাষা ও সাহিত্য (English - CU) Subject Review"
+  },
+  {
+    "file": "department-of-farsi-cu.json",
+    "slug": "department-of-farsi-cu",
+    "title": "ফারসি ভাষা ও সাহিত্য (Farsi - CU) Subject Review"
+  },
+  {
+    "file": "department-of-fine-art-cu.json",
+    "slug": "department-of-fine-art-cu",
+    "title": "চারুকলা ইনস্টিটিউট (Fine Arts - CU) Subject Review"
+  },
+  {
+    "file": "department-of-forestry-and.json",
+    "slug": "department-of-forestry-and",
+    "title": "বন ও পরিবেশ বিজ্ঞান ইনস্টিটিউট (IFES - CU) Subject Review"
+  },
+  {
+    "file": "department-of-geography-environmenta.json",
+    "slug": "department-of-geography-environmenta",
+    "title": "ভূগোল ও পরিবেশবিদ্যা (Geography & Environment - CU) Subject Review"
+  },
+  {
+    "file": "department-of-history-cu.json",
+    "slug": "department-of-history-cu",
+    "title": "ইতিহাস বিভাগ (History - CU) Subject Review"
+  },
+  {
+    "file": "department-of-law-cu.json",
+    "slug": "department-of-law-cu",
+    "title": "আইন বিভাগ (Law - University of Chittagong) Subject Review"
+  },
+  {
+    "file": "department-of-management-university-of.json",
+    "slug": "department-of-management-university-of",
+    "title": "ব্যবস্থাপনা বিভাগ (Management - CU) Subject Review"
+  },
+  {
+    "file": "department-of-microbiology-mbio-cu.json",
+    "slug": "department-of-microbiology-mbio-cu",
+    "title": "অণুজীববিজ্ঞান (Microbiology - CU) Subject Review"
+  },
+  {
+    "file": "department-of-public-administration.json",
+    "slug": "department-of-public-administration",
+    "title": "লোকপ্রশাসন (Public Administration - CU) Subject Review"
+  },
+  {
+    "file": "department-of-sociology-bup.json",
+    "slug": "department-of-sociology-bup",
+    "title": "সমাজবিজ্ঞান বিভাগ (Sociology - BUP) Subject Review"
+  },
+  {
+    "file": "department-of-soil-science-cu.json",
+    "slug": "department-of-soil-science-cu",
+    "title": "মৃত্তিকা বিজ্ঞান (Soil Science - CU) Subject Review"
+  },
+  {
+    "file": "du-sociology.json",
+    "slug": "du-sociology",
+    "title": "সমাজবিজ্ঞান (Sociology - University of Dhaka) Subject Review"
+  },
+  {
+    "file": "dvm-veterinary-medicine-bau.json",
+    "slug": "dvm-veterinary-medicine-bau",
+    "title": "ডক্টর অব ভেটেরিনারি মেডিসিন (DVM - BAU) বিষয় পরিচিতি ও ক্যারিয়ার গাইড"
+  },
+  {
+    "file": "ece-ruet.json",
+    "slug": "ece-ruet",
+    "title": "ইলেকট্রিক্যাল অ্যান্ড কম্পিউটার ইঞ্জিনিয়ারিং (ECE - RUET) Subject Review"
+  },
+  {
+    "file": "economics-department-cu.json",
+    "slug": "economics-department-cu",
+    "title": "অর্থনীতি বিভাগ (Economics - University of Chittagong) Subject Review"
+  },
+  {
+    "file": "eece-electrical-electronics-and.json",
+    "slug": "eece-electrical-electronics-and",
+    "title": "ইলেকট্রিক্যাল, ইলেকট্রনিক্স অ্যান্ড কমিউনিকেশন ইঞ্জিনিয়ারিং (EECE - MIST) Review"
+  },
+  {
+    "file": "eee-cu.json",
+    "slug": "eee-cu",
+    "title": "ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক ইঞ্জিনিয়ারিং (EEE - CU) Subject Review"
+  },
+  {
+    "file": "eee-cuet.json",
+    "slug": "eee-cuet",
+    "title": "Electrical & Electronic Engineering (EEE - CUET) Subject Review"
+  },
+  {
+    "file": "eee-kuet.json",
+    "slug": "eee-kuet",
+    "title": "ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক ইঞ্জিনিয়ারিং (EEE - KUET) Subject Review"
+  },
+  {
+    "file": "eee-ruet.json",
+    "slug": "eee-ruet",
+    "title": "Electrical & Electronic Engineering (EEE - RUET) Subject Review"
+  },
+  {
+    "file": "environmental-science-engineering-ese.json",
+    "slug": "environmental-science-engineering-ese",
+    "title": "Environmental Science & Engineering (ESE - BUTex) Subject Review"
+  },
+  {
+    "file": "ese-kuet.json",
+    "slug": "ese-kuet",
+    "title": "এনার্জি সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং (ESE - KUET) Subject Review"
+  },
+  {
+    "file": "ete-cuet.json",
+    "slug": "ete-cuet",
+    "title": "Electronics & Telecommunication Engineering (ETE - CUET) Subject Review"
+  },
+  {
+    "file": "ete-ruet.json",
+    "slug": "ete-ruet",
+    "title": "ইলেকট্রনিক্স অ্যান্ড টেলিকমিউনিকেশন ইঞ্জিনিয়ারিং (ETE - RUET) Subject Review"
+  },
+  {
+    "file": "faculty-of-marin-sciences-and-fisheries.json",
+    "slug": "faculty-of-marin-sciences-and-fisheries",
+    "title": "মেরিন সায়েন্স অ্যান্ড ফিশারিজ অনুষদ (CU) Subject Review"
+  },
+  {
+    "file": "finance-department-cu.json",
+    "slug": "finance-department-cu",
+    "title": "ফাইন্যান্স বিভাগ (Finance - University of Chittagong) Subject Review"
+  },
+  {
+    "file": "financial-engineering-and-algorithmic-trading.json",
+    "slug": "financial-engineering-and-algorithmic-trading",
+    "title": "ফাইন্যান্সিয়াল ইঞ্জিনিয়ারিং ও কোয়ান্টাম ফাইন্যান্স (Financial Engineering & Quantitative Finance) গাইড"
+  },
+  {
+    "file": "fisheries-department-hstu.json",
+    "slug": "fisheries-department-hstu",
+    "title": "মৎস্যবিজ্ঞান (Fisheries - HSTU) Subject Review | ক্যারিয়ার ও গবেষণা"
+  },
+  {
+    "file": "fisheries-faculty-bau.json",
+    "slug": "fisheries-faculty-bau",
+    "title": "বিএসসি ইন ফিশারিজ (Fisheries - BAU) বিষয় পরিচিতি ও উচ্চশিক্ষা সম্ভাবনা"
+  },
+  {
+    "file": "food-engineering-and-tea-technology-fe.json",
+    "slug": "food-engineering-and-tea-technology-fe",
+    "title": "খাদ্য প্রকৌশল ও চা প্রযুক্তি (Food Engineering & Tea Technology - SUST) Subject Review"
+  },
+  {
+    "file": "food-engineering-bau.json",
+    "slug": "food-engineering-bau",
+    "title": "বিএসসি ইন ফুড ইঞ্জিনিয়ারিং (Food Engineering - BAU) ক্যারিয়ার ও বিষয় পরিচিতি"
+  },
+  {
+    "file": "food-nutrition-du.json",
+    "slug": "food-nutrition-du",
+    "title": "পুষ্টি ও খাদ্যবিজ্ঞান (Food & Nutrition - DU) পূর্ণাঙ্গ বিষয় ও ক্যারিয়ার গাইড"
+  },
+  {
+    "file": "food-safety-management-bau.json",
+    "slug": "food-safety-management-bau",
+    "title": "বিএসসি ইন ফুড সেফটি ম্যানেজমেন্ট (Food Safety Management - BAU) বিষয় পরিচিতি ও ক্যারিয়ার"
+  },
+  {
+    "file": "forestry-and-environmental-science-fes.json",
+    "slug": "forestry-and-environmental-science-fes",
+    "title": "বন ও পরিবেশ বিজ্ঞান (Forestry & Environmental Science - SUST) Subject Review"
+  },
+  {
+    "file": "fwt-forestry-wood-technology-khulna.json",
+    "slug": "fwt-forestry-wood-technology-khulna",
+    "title": "ফরেস্ট্রি অ্যান্ড উড টেকনোলজি (FWT - Khulna University) Subject Review"
+  },
+  {
+    "file": "game-engineering-and-metaverse-architecture.json",
+    "slug": "game-engineering-and-metaverse-architecture",
+    "title": "গেম ডেভেলপমেন্ট, ভিআর ও মেটাভার্স আর্কিটেকচার (Game Engineering & Spatial Computing) গাইড"
+  },
+  {
+    "file": "gce-ruet.json",
+    "slug": "gce-ruet",
+    "title": "গ্লাস অ্যান্ড সিরামিক ইঞ্জিনিয়ারিং (GCE - RUET) Subject Review"
+  },
+  {
+    "file": "genetic-engineering-and-biotechnology.json",
+    "slug": "genetic-engineering-and-biotechnology",
+    "title": "জেনেটিক ইঞ্জিনিয়ারিং অ্যান্ড বায়োটেকনোলজি (GEB - CU) Subject Review"
+  },
+  {
+    "file": "genetic-engineering-and-biotechnology_30.json",
+    "slug": "genetic-engineering-and-biotechnology_30",
+    "title": "জেনেটিক ইঞ্জিনিয়ারিং অ্যান্ড বায়োটেকনোলজি (GEB - SUST) Subject Review"
+  },
+  {
+    "file": "genomic-data-science-and-bioinformatics.json",
+    "slug": "genomic-data-science-and-bioinformatics",
+    "title": "জিনোমিক ডেটা সায়েন্স ও প্রিসিশন মেডিসিন (Genomic Data Science & Precision Medicine) Subject Review"
+  },
+  {
+    "file": "human-resource-management-department-cu.json",
+    "slug": "human-resource-management-department-cu",
+    "title": "হিউম্যান রিসোর্স ম্যানেজমেন্ট (HRM - CU) Subject Review | ক্যারিয়ার ও প্রবৃদ্ধি"
+  },
+  {
+    "file": "iem-kuet.json",
+    "slug": "iem-kuet",
+    "title": "ইন্ডাস্ট্রিয়াল ইঞ্জিনিয়ারিং অ্যান্ড ম্যানেজমেন্ট (IEM - KUET) Subject Review"
+  },
+  {
+    "file": "ier.json",
+    "slug": "ier",
+    "title": "শিক্ষা ও গবেষণা ইনস্টিটিউট (IER - University of Dhaka) Subject Review"
+  },
+  {
+    "file": "information-and-communication.json",
+    "slug": "information-and-communication",
+    "title": "ইনফরমেশন অ্যান্ড কমিউনিকেশন ইঞ্জিনিয়ারিং (ICE - NSTU) Subject Review"
+  },
+  {
+    "file": "institute-of-education-and-research-ier.json",
+    "slug": "institute-of-education-and-research-ier",
+    "title": "শিক্ষা ও গবেষণা ইনস্টিটিউট (IER - CU) Subject Review | ক্যারিয়ার ও উচ্চশিক্ষা"
+  },
+  {
+    "file": "international-relationship-department-cu.json",
+    "slug": "international-relationship-department-cu",
+    "title": "আন্তর্জাতিক সম্পর্ক বিভাগ (International Relations - CU) Subject Review"
+  },
+  {
+    "file": "ipe-ruet.json",
+    "slug": "ipe-ruet",
+    "title": "ইন্ডাস্ট্রিয়াল অ্যান্ড প্রোডাকশন ইঞ্জিনিয়ারিং (IPE - RUET) Subject Review"
+  },
+  {
+    "file": "it-information-technology-du.json",
+    "slug": "it-information-technology-du",
+    "title": "তথ্যপ্রযুক্তি ইনস্টিটিউট (IIT - University of Dhaka) বিএসসি সফটওয়্যার ইঞ্জিনিয়ারিং"
+  },
+  {
+    "file": "journalism-cu.json",
+    "slug": "journalism-cu",
+    "title": "যোগাযোগ ও সাংবাদিকতা বিভাগ (Journalism - CU) Subject Review"
+  },
+  {
+    "file": "le-kuet.json",
+    "slug": "le-kuet",
+    "title": "লেদার ইঞ্জিনিয়ারিং (Leather Engineering - KUET) Subject Review"
+  },
+  {
+    "file": "marine-biotechnology-and-blue-economy.json",
+    "slug": "marine-biotechnology-and-blue-economy",
+    "title": "মেরিন বায়োটেকনোলজি ও ওশান জিনোমিক্স (Marine Biotechnology & Blue Bioeconomy) পূর্ণাঙ্গ রিভিউ"
+  },
+  {
+    "file": "marine-fisheries-bsmrmu.json",
+    "slug": "marine-fisheries-bsmrmu",
+    "title": "মেরিন ফিশারিজ (Marine Fisheries - BSMRMU) Subject Review | ব্লু-ইকোনমি"
+  },
+  {
+    "file": "maritime-law-bsmrmu.json",
+    "slug": "maritime-law-bsmrmu",
+    "title": "মেরিটাইম ল অ্যান্ড পলিসি (Maritime Law - BSMRMU) Subject Review"
+  },
+  {
+    "file": "marketing-department-cu.json",
+    "slug": "marketing-department-cu",
+    "title": "মার্কেটিং বিভাগ (Marketing - University of Chittagong) Subject Review"
+  },
+  {
+    "file": "material-science-and-engineering-mse.json",
+    "slug": "material-science-and-engineering-mse",
+    "title": "ম্যাটেরিয়াল সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং (MSE - RUET) Subject Review"
+  },
+  {
+    "file": "mathematics-department-math-cu.json",
+    "slug": "mathematics-department-math-cu",
+    "title": "গণিত বিভাগ (Mathematics - University of Chittagong) Subject Review"
+  },
+  {
+    "file": "me-ruet.json",
+    "slug": "me-ruet",
+    "title": "মেকানিক্যাল ইঞ্জিনিয়ারিং (ME - RUET) Subject Review | ক্যারিয়ার ও ভবিষ্যৎ"
+  },
+  {
+    "file": "me.json",
+    "slug": "me",
+    "title": "মেকানিক্যাল ইঞ্জিনিয়ারিং (ME) ক্যারিয়ার, উচ্চশিক্ষা ও পূর্ণাঙ্গ রূপরেখা"
+  },
+  {
+    "file": "mec-eee.json",
+    "slug": "mec-eee",
+    "title": "ময়মনসিংহ ইঞ্জিনিয়ারিং কলেজ (MEC - EEE) Subject Review"
+  },
+  {
+    "file": "mechanical-engineering-cuet.json",
+    "slug": "mechanical-engineering-cuet",
+    "title": "মেকানিক্যাল ইঞ্জিনিয়ারিং (ME - CUET) Subject Review | চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়"
+  },
+  {
+    "file": "mechanical-engineering-me.json",
+    "slug": "mechanical-engineering-me",
+    "title": "মেকানিক্যাল ইঞ্জিনিয়ারিং (ME) বিষয় ও কর্মক্ষেত্র পরিচিতি"
+  },
+  {
+    "file": "microbiology.json",
+    "slug": "microbiology",
+    "title": "অণুজীববিজ্ঞান (Microbiology) পূর্ণাঙ্গ ক্যারিয়ার ও বিষয় গাইড"
+  },
+  {
+    "file": "mie-cuet.json",
+    "slug": "mie-cuet",
+    "title": "মেকাট্রনিক্স অ্যান্ড ইন্ডাস্ট্রিয়াল ইঞ্জিনিয়ারিং (MIE - CUET) Subject Review"
+  },
+  {
+    "file": "mis-2.json",
+    "slug": "mis-2",
+    "title": "নিউক্লিয়ার সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং (NSE - MIST) Subject Review"
+  },
+  {
+    "file": "mse-kuet.json",
+    "slug": "mse-kuet",
+    "title": "মেটেরিয়ালস সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং (MSE - KUET) Subject Review"
+  },
+  {
+    "file": "mse-ruet.json",
+    "slug": "mse-ruet",
+    "title": "মেটেরিয়াল সায়েন্স অ্যান্ড ইঞ্জিনিয়ারিং (MSE - RUET) Subject Review"
+  },
+  {
+    "file": "mte-kuet.json",
+    "slug": "mte-kuet",
+    "title": "মেকাট্রনিক্স ইঞ্জিনিয়ারিং (MTE - KUET) Subject Review | রোবোটিক্স ও অটোমেশন"
+  },
+  {
+    "file": "mte-ruet.json",
+    "slug": "mte-ruet",
+    "title": "মেকাট্রনিক্স ইঞ্জিনিয়ারিং (MTE - RUET) Subject Review"
+  },
+  {
+    "file": "name.json",
+    "slug": "name",
+    "title": "নেভাল আর্কিটেকচার অ্যান্ড মেরিন ইঞ্জিনিয়ারিং (NAME - BUET/MIST) Subject Review"
+  },
+  {
+    "file": "nanoengineering-and-molecular-nanotechnology.json",
+    "slug": "nanoengineering-and-molecular-nanotechnology",
+    "title": "ন্যানোইঞ্জিনিয়ারিং ও মলিকুলার ন্যানোটেকনোলজি (Nanoengineering & Advanced Metamaterials) গাইড"
+  },
+  {
+    "file": "naoe.json",
+    "slug": "naoe",
+    "title": "নেভাল আর্কিটেকচার অ্যান্ড অফশোর ইঞ্জিনিয়ারিং (NAOE - BSMRMU) Subject Review"
+  },
+  {
+    "file": "nstu-education-administration.json",
+    "slug": "nstu-education-administration",
+    "title": "শিক্ষা প্রশাসন বিভাগ (Educational Administration - NSTU) Subject Review"
+  },
+  {
+    "file": "nsu-ece.json",
+    "slug": "nsu-ece",
+    "title": "নর্থ সাউথ ইউনিভার্সিটি ECE ডিপার্টমেন্টের অনন্য বৈশিষ্ট্য ও ক্যারিয়ার গাইড"
+  },
+  {
+    "file": "nuclear-fusion-and-plasma-engineering.json",
+    "slug": "nuclear-fusion-and-plasma-engineering",
+    "title": "নিউক্লিয়ার ফিউশন ও প্লাজমা ইঞ্জিনিয়ারিং (Nuclear Fusion & Clean Energy Physics) পূর্ণাঙ্গ গাইড"
+  },
+  {
+    "file": "oceanography-hydrography-bsmrmu.json",
+    "slug": "oceanography-hydrography-bsmrmu",
+    "title": "সমুদ্রবিজ্ঞান ও হাইড্রোগ্রাফি (Oceanography & Hydrography - BSMRMU) Subject Review"
+  },
+  {
+    "file": "petroleum-and-mining-engineering.json",
+    "slug": "petroleum-and-mining-engineering",
+    "title": "পেট্রোলিয়াম অ্যান্ড মাইনিং ইঞ্জিনিয়ারিং (PME - SUST/CUET/JUST) Subject Review"
+  },
+  {
+    "file": "pharmacy-departmen.json",
+    "slug": "pharmacy-departmen",
+    "title": "ফার্মেসি বিভাগ (Pharmacy Department) পূর্ণাঙ্গ প্রফেশনাল রিভিউ"
+  },
+  {
+    "file": "pharmacy-department-cu.json",
+    "slug": "pharmacy-department-cu",
+    "title": "ফার্মেসি বিভাগ (Pharmacy - University of Chittagong) Subject Review"
+  },
+  {
+    "file": "physics-department-phy-cu.json",
+    "slug": "physics-department-phy-cu",
+    "title": "পদার্থবিজ্ঞান বিভাগ (Physics - CU) Subject Review | গবেষণা ও ক্যারিয়ার"
+  },
+  {
+    "file": "physics.json",
+    "slug": "physics",
+    "title": "পদার্থবিজ্ঞান পড়ে কী হবে! পদার্থবিজ্ঞানের বৈশ্বিক গুরুত্ব ও ক্যারিয়ার সম্ভাবনা"
+  },
+  {
+    "file": "pme-sust.json",
+    "slug": "pme-sust",
+    "title": "পেট্রোলিয়াম অ্যান্ড মাইনিং ইঞ্জিনিয়ারিং (PME - SUST) ক্যারিয়ার গাইড"
+  },
+  {
+    "file": "political-science-department-cu.json",
+    "slug": "political-science-department-cu",
+    "title": "রাষ্ট্রবিজ্ঞান বিভাগ (Political Science - CU) Subject Review"
+  },
+  {
+    "file": "port-management-and-logistics-pml.json",
+    "slug": "port-management-and-logistics-pml",
+    "title": "পোর্ট ম্যানেজমেন্ট অ্যান্ড লজিস্টিকস (PML - BSMRMU) Subject Review"
+  },
+  {
+    "file": "psychology-department-cu.json",
+    "slug": "psychology-department-cu",
+    "title": "মনোবিজ্ঞান বিভাগ (Psychology - CU) Subject Review | মানসিক স্বাস্থ্য ও ক্যারিয়ার"
+  },
+  {
+    "file": "pubd.json",
+    "slug": "pubd",
+    "title": "বাংলাদেশের পাবলিক বিশ্ববিদ্যালয়ের ভর্তি ও একাডেমিক তথ্য সহায়িকা"
+  },
+  {
+    "file": "public-administration-department-pad.json",
+    "slug": "public-administration-department-pad",
+    "title": "লোকপ্রশাসন বিভাগ (PAD - SUST) Subject Review | সুশাসন ও নীতি গবেষণা"
+  },
+  {
+    "file": "quantum-computing-and-information-science.json",
+    "slug": "quantum-computing-and-information-science",
+    "title": "কোয়ান্টাম কম্পিউটিং ও ইনফরমেশন সায়েন্স (Quantum Computing & Information Science) পূর্ণাঙ্গ গাইডলাইন"
+  },
+  {
+    "file": "renewable-energy-and-smart-grid.json",
+    "slug": "renewable-energy-and-smart-grid",
+    "title": "রিনিউয়েবল এনার্জি ও স্মার্ট গ্রিড ইঞ্জিনিয়ারিং (Renewable Energy & Smart Grid Systems) ক্যারিয়ার গাইড"
+  },
+  {
+    "file": "ruet-architecture.json",
+    "slug": "ruet-architecture",
+    "title": "স্থাপত্য বিভাগ (Architecture - RUET) স্টুডিও সংস্কৃতি ও ক্যারিয়ার গাইড"
+  },
+  {
+    "file": "semiconductor-device-physics-and-chip-fabrication.json",
+    "slug": "semiconductor-device-physics-and-chip-fabrication",
+    "title": "সেমিকন্ডাক্টর ডিভাইস ফিজিক্স ও চিপ ফেব্রিকেশন (Semiconductor Physics & VLSI Fabrication) গাইড"
+  },
+  {
+    "file": "sociology-department-cu.json",
+    "slug": "sociology-department-cu",
+    "title": "সমাজবিজ্ঞান বিভাগ (Sociology - CU) Subject Review"
+  },
+  {
+    "file": "soil-water-and-environment-du.json",
+    "slug": "soil-water-and-environment-du",
+    "title": "মৃত্তিকা, পানি ও পরিবেশ বিভাগ (Soil, Water & Environment - DU) Subject Review"
+  },
+  {
+    "file": "space-law-and-planetary-policy.json",
+    "slug": "space-law-and-planetary-policy",
+    "title": "স্পেস ল ও গ্লোবাল স্যাটেলাইট রেগুলেশনস (Space Law & Satellite Policy) বিষয় পরিচিতি"
+  },
+  {
+    "file": "statistics-department-stat-cu.json",
+    "slug": "statistics-department-stat-cu",
+    "title": "পরিসংখ্যান বিভাগ (Statistics - CU) Subject Review | ডেটা সায়েন্স ও ক্যারিয়ার"
+  },
+  {
+    "file": "subject-review-anthropology.json",
+    "slug": "subject-review-anthropology",
+    "title": "নৃবিজ্ঞান (Anthropology) পূর্ণাঙ্গ ক্যারিয়ার ও বিষয় পর্যালোচনা"
+  },
+  {
+    "file": "subject-review-iit-institute-of.json",
+    "slug": "subject-review-iit-institute-of",
+    "title": "ইনস্টিটিউট অব ইনফরমেশন টেকনোলজি (IIT) সমন্বিত পরিচিতি ও সফটওয়্যার ক্যারিয়ার"
+  },
+  {
+    "file": "subject-review.json",
+    "slug": "subject-review",
+    "title": "বিশ্ববিদ্যালয়ের সকল সাবজেক্টের মাস্টার ইনডেক্স ও ক্যারিয়ার দিকনির্দেশনা"
+  },
+  {
+    "file": "sust-mechanical-engineering.json",
+    "slug": "sust-mechanical-engineering",
+    "title": "মেকানিক্যাল ইঞ্জিনিয়ারিং (ME - SUST) বিভাগ পরিচিতি ও রোবোটিক্স উৎকর্ষ"
+  },
+  {
+    "file": "swe-software-engineering.json",
+    "slug": "swe-software-engineering",
+    "title": "সফটওয়্যার ইঞ্জিনিয়ারিং (Software Engineering - SWE) ক্যারিয়ার ও আধুনিক প্রযুক্তি"
+  },
+  {
+    "file": "sylebus-of-kue.json",
+    "slug": "sylebus-of-kue",
+    "title": "খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় (KUET) একাডেমিক সিলেবাস ও ক্রেডিট কাঠামো"
+  },
+  {
+    "file": "syllabus-of-mechanical-kue.json",
+    "slug": "syllabus-of-mechanical-kue",
+    "title": "মেকানিক্যাল ইঞ্জিনিয়ারিং (ME - KUET) বিস্তারিত একাডেমিক সিলেবাস"
+  },
+  {
+    "file": "synthetic-biology-and-metabolic-engineering.json",
+    "slug": "synthetic-biology-and-metabolic-engineering",
+    "title": "সিন্থেটিক বায়োলজি ও মেটাবলিক ইঞ্জিনিয়ারিং (Synthetic Biology & Cellular Agriculture) রিভিউ"
+  },
+  {
+    "file": "textile-engineering-management-tem-butex.json",
+    "slug": "textile-engineering-management-tem-butex",
+    "title": "টেক্সটাইল ইঞ্জিনিয়ারিং ম্যানেজমেন্ট (TEM - BUTEX) Subject Review"
+  },
+  {
+    "file": "tfd-butex.json",
+    "slug": "tfd-butex",
+    "title": "টেক্সটাইল ফ্যাশন অ্যান্ড ডিজাইন (TFD - BUTEX) Subject Review"
+  },
+  {
+    "file": "tourism-and-hospitality-nstu.json",
+    "slug": "tourism-and-hospitality-nstu",
+    "title": "ট্যুরিজম অ্যান্ড হসপিটালিটি ম্যানেজমেন্ট (THM - NSTU) Subject Review"
+  },
+  {
+    "file": "urban-informatics-and-smart-cities.json",
+    "slug": "urban-informatics-and-smart-cities",
+    "title": "আরবান ইনফরমেটিক্স ও স্মার্ট সিটি সিস্টেমস (Urban Informatics & Geospatial AI) বিষয় পরিচিতি"
+  },
+  {
+    "file": "urp.json",
+    "slug": "urp",
+    "title": "নগর ও অঞ্চল পরিকল্পনা (URP - BUET/KUET/RUET/CUET) পূর্ণাঙ্গ বিষয় রিভিউ"
+  },
+  {
+    "file": "why-biotechnology.json",
+    "slug": "why-biotechnology",
+    "title": "কেন পড়বেন বায়োটেকনোলজি ও জেনেটিক ইঞ্জিনিয়ারিং? ভবিষ্যৎ প্রযুক্তির হাতছানি"
+  },
+  {
+    "file": "wre.json",
+    "slug": "wre",
+    "title": "পানি সম্পদ কৌশল (Water Resources Engineering - WRE - BUET/CUET) Subject Review"
+  },
+  {
+    "file": "zoology-departmen.json",
+    "slug": "zoology-departmen",
+    "title": "প্রাণিবিদ্যা বিভাগ (Zoology) পূর্ণাঙ্গ বিষয় ও ক্যারিয়ার গাইড"
+  }
+]

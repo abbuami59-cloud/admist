@@ -1,0 +1,191 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-primary-50: #ecfdf5;
+  --color-primary-100: #d1fae5;
+  --color-primary-200: #a7f3d0;
+  --color-primary-300: #6ee7b7;
+  --color-primary-400: #34d399;
+  --color-primary-500: #10b981;
+  --color-primary-600: #059669;
+  --color-primary-700: #047857;
+  --color-primary-800: #065f46;
+  --color-primary-900: #064e3b;
+  --color-primary-950: #022c22;
+  --animate-marquee: marquee 25s linear infinite;
+
+  @keyframes marquee {
+    0% {
+      transform: translateX(100vw);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+}
+
+@layer utilities {
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  @keyframes colorEmissionGlow {
+    0% {
+      filter: hue-rotate(0deg) blur(6px) drop-shadow(0 0 10px rgba(99, 102, 241, 0.8));
+      transform: scale(0.98);
+      opacity: 0.8;
+    }
+    50% {
+      filter: hue-rotate(180deg) blur(10px) drop-shadow(0 0 18px rgba(244, 63, 94, 0.95));
+      transform: scale(1.06);
+      opacity: 1;
+    }
+    100% {
+      filter: hue-rotate(360deg) blur(6px) drop-shadow(0 0 10px rgba(99, 102, 241, 0.8));
+      transform: scale(0.98);
+      opacity: 0.8;
+    }
+  }
+
+  @keyframes menuLinePulse {
+    0%, 100% {
+      color: #38bdf8;
+      filter: drop-shadow(0 0 3px #38bdf8);
+    }
+    33% {
+      color: #ec4899;
+      filter: drop-shadow(0 0 4px #ec4899);
+    }
+    66% {
+      color: #10b981;
+      filter: drop-shadow(0 0 4px #10b981);
+    }
+  }
+
+  @keyframes rainbowBorder {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+  .animate-color-emission {
+    animation: colorEmissionGlow 3s ease-in-out infinite;
+  }
+
+  .animate-menu-lines {
+    animation: menuLinePulse 3s ease-in-out infinite;
+  }
+
+  .animate-rainbow-border {
+    background-size: 200% 200%;
+    animation: rainbowBorder 3s ease infinite;
+  }
+
+  .animate-marquee {
+    animation: marquee 25s linear infinite;
+  }
+
+  .animate-marquee:hover,
+  .group:hover .animate-marquee {
+    animation-play-state: paused;
+  }
+
+  /* Subject Review Rich Content & Internal Link Styles */
+  .review-h2 {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin-top: 2.25rem;
+    margin-bottom: 0.85rem;
+    padding-bottom: 0.4rem;
+    border-bottom: 2px solid #e2e8f0;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    scroll-margin-top: 100px;
+  }
+  .dark .review-h2 {
+    color: #f8fafc;
+    border-bottom-color: #27272a;
+  }
+
+  .review-h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #1e293b;
+    margin-top: 1.5rem;
+    margin-bottom: 0.6rem;
+    scroll-margin-top: 100px;
+  }
+  .dark .review-h3 {
+    color: #e2e8f0;
+  }
+
+  .review-callout-card {
+    margin: 1.5rem 0;
+    padding: 1.25rem 1.5rem;
+    border-radius: 1rem;
+    border-left: 4px solid #10b981;
+    background: #f0fdf4;
+    border-top: 1px solid #dcfce7;
+    border-right: 1px solid #dcfce7;
+    border-bottom: 1px solid #dcfce7;
+  }
+  .dark .review-callout-card {
+    background: rgba(6, 78, 59, 0.2);
+    border-color: rgba(16, 185, 129, 0.25);
+    border-left-color: #10b981;
+  }
+
+  .review-internal-link-box {
+    margin: 2rem 0;
+    padding: 1.25rem;
+    border-radius: 1rem;
+    background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+    border: 1px solid #e2e8f0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .dark .review-internal-link-box {
+    background: linear-gradient(135deg, #18181b 0%, #202024 100%);
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+
+  .review-table {
+    width: 100%;
+    margin: 1.5rem 0;
+    border-collapse: collapse;
+    font-size: 0.925rem;
+  }
+  .review-table th {
+    background: #f1f5f9;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 600;
+    border: 1px solid #e2e8f0;
+  }
+  .dark .review-table th {
+    background: #27272a;
+    border-color: #3f3f46;
+  }
+  .review-table td {
+    padding: 0.75rem 1rem;
+    border: 1px solid #e2e8f0;
+  }
+  .dark .review-table td {
+    border-color: #27272a;
+  }
+}
