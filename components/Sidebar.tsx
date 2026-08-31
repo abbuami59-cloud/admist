@@ -6,7 +6,7 @@ import { CalendarClock, FileText, Send, Download, Award, GraduationCap, Calculat
 import { ThemeToggle } from "./ThemeToggle";
 
 const tabs = [
-  { name: "সময়কাল (Timeline)", path: "/", icon: CalendarClock },
+  { name: "পরীক্ষার সময় (Timeline)", path: "/", icon: CalendarClock },
   { name: "তথ্য (Info)", path: "/info", icon: FileText },
   { name: "আবেদন (Apply)", path: "/apply", icon: Send },
   { name: "অ্যাডমিট (Admit)", path: "/admit", icon: Download },

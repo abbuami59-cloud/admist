@@ -102,6 +102,28 @@
     animation-play-state: paused;
   }
 
+  @keyframes buttonTextScroll {
+    0%, 20% {
+      transform: translateX(0%);
+    }
+    50%, 70% {
+      transform: translateX(-45%);
+    }
+    90%, 100% {
+      transform: translateX(0%);
+    }
+  }
+
+  .animate-btn-scroll {
+    display: inline-block;
+    white-space: nowrap;
+    animation: buttonTextScroll 4s ease-in-out infinite;
+  }
+
+  .animate-btn-scroll:hover {
+    animation-play-state: paused;
+  }
+
   /* Subject Review Rich Content & Internal Link Styles */
   .review-h2 {
     font-size: 1.35rem;

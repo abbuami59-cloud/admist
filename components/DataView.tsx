@@ -37,7 +37,7 @@ const CATEGORIES = [
 ];
 
 const NAVIGATION_ROW_1 = [
-  { id: "timeline", label: "সময়কাল", path: "/", icon: CalendarClock },
+  { id: "timeline", label: "পরীক্ষার সময়", path: "/", icon: CalendarClock },
   { id: "info", label: "তথ্য", path: "/info", icon: FileText },
   { id: "apply", label: "আবেদন", path: "/apply", icon: Send },
   { id: "admit", label: "এডমিট", path: "/admit", icon: Download },
@@ -139,24 +139,33 @@ export function DataView<T>({ type, renderContent, sortFn, initialData }: DataVi
     <div className="flex flex-col gap-4">
       {/* Primary View Navigation Buttons (Strict 2-Row Layout on all devices) */}
       <div className="flex flex-col gap-1.5 sm:gap-2">
-        {/* Row 1: 4 Buttons (সময়কাল, তথ্য, আবেদন, এডমিট) */}
+        {/* Row 1: 4 Buttons (পরীক্ষার সময়, তথ্য, আবেদন, এডমিট) */}
         <div className="grid grid-cols-4 gap-1.5 sm:gap-2">
           {NAVIGATION_ROW_1.map((btn) => {
             const isActive = pathname === btn.path || (btn.path === "/" && pathname === "") || type === btn.id;
             const Icon = btn.icon;
+            const isTimeline = btn.id === "timeline";
 
             return (
               <Link
                 key={btn.id}
                 href={btn.path}
-                className={`flex items-center justify-center gap-1 sm:gap-1.5 md:gap-2 py-2 sm:py-2.5 md:py-3 px-1 sm:px-2 md:px-3 rounded-xl sm:rounded-2xl text-[11px] xs:text-xs sm:text-xs md:text-sm font-bold sm:font-extrabold transition-all text-center border shadow-xs ${
+                className={`flex items-center justify-center gap-1 sm:gap-1.5 md:gap-2 py-2 sm:py-2.5 md:py-3 px-1 sm:px-2 md:px-3 rounded-xl sm:rounded-2xl text-[11px] xs:text-xs sm:text-xs md:text-sm font-bold sm:font-extrabold transition-all text-center border shadow-xs overflow-hidden ${
                   isActive
                     ? "bg-primary-600 dark:bg-primary-500 text-white border-primary-600 dark:border-primary-500 shadow-md shadow-primary-600/20 scale-[1.01]"
                     : "bg-white dark:bg-[#18181b] text-zinc-700 dark:text-zinc-300 border-zinc-200 dark:border-white/10 hover:bg-zinc-50 dark:hover:bg-white/5 hover:border-zinc-300 dark:hover:border-white/20"
                 }`}
               >
                 <Icon size={14} className="shrink-0 sm:w-4 sm:h-4" />
-                <span className="truncate">{btn.label}</span>
+                {isTimeline ? (
+                  <span className="overflow-hidden whitespace-nowrap min-w-0 max-w-full block flex-1 text-center">
+                    <span className="inline-block animate-btn-scroll sm:animate-none">
+                      {btn.label}
+                    </span>
+                  </span>
+                ) : (
+                  <span className="truncate">{btn.label}</span>
+                )}
               </Link>
             );
           })}
